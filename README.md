@@ -9,3 +9,5 @@ My main() function is included in the player_2.py module. If you are curious as 
 If you are looking to understand how this project developed, I did not want to submit it until I was proud of my work.
 
 For unraveling the metaphorical present, I recommend following this order: deck.py -> dealer.py -> main.py -> logic.py -> intro.py -> player_2.py. This was also the order in which I developed the project. 
+
+Here is the GitHub repository: https://github.com/MGreen3310/Final-Project_Green.git
